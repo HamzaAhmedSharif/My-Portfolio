@@ -2,8 +2,8 @@
 Optional: Add your custom banner image here.
 Replace the URL with your own 2600x520 banner image.
 -->
-<img src="<img width="1774" height="887" alt="ChatGPT Image Jul 10, 2026, 04_07_34 AM" src="https://github.com/user-attachments/assets/340ba63f-1b6c-4725-92c5-2bdcbaba77f4" />
-" alt="Zero to AI Banner" />
+<img width="1774" height="887" alt="ChatGPT Image Jul 10, 2026, 04_07_34 AM" src="https://github.com/user-attachments/assets/340ba63f-1b6c-4725-92c5-2bdcbaba77f4" />
+
 
 ---
 
