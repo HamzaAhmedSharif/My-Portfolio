@@ -6,14 +6,14 @@ Replace the URL with your own 2600x520 banner image.
 
 ---
 
-### 👋 Hi, I'm Hamza Ahmed Sharif
+###  Hi, I'm Hamza Ahmed Sharif
 
 **Building Production AI from Zero**  
 *AI Engineering • MLOps • Full-Stack Development*
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I'm an **AI Engineer** focused on building end-to-end AI systems that go beyond notebooks—from data ingestion to production deployment. I believe in:
 
@@ -21,14 +21,14 @@ I'm an **AI Engineer** focused on building end-to-end AI systems that go beyond 
 - Bridging the gap between research and real-world applications
 - Learning in public and sharing knowledge through open source
 
-- 🔭 I'm currently building: **Production AI Systems & MLOps Pipelines**
-- 🌱 I'm learning: **Kubernetes, LLM Deployment, and Agentic Architectures**
-- 🎯 2026 Goal: **Contribute meaningfully to open-source AI/ML projects**
-- 💬 Ask me about: **Data Engineering, Model Deployment, AI Infrastructure**
+-  I'm currently building: **Production AI Systems & MLOps Pipelines**
+-  I'm learning: **Kubernetes, LLM Deployment, and Agentic Architectures**
+-  2026 Goal: **Contribute meaningfully to open-source AI/ML projects**
+-  Ask me about: **Data Engineering, Model Deployment, AI Infrastructure**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 Here are the tools and technologies I work with daily. Badges help recruiters quickly scan your skillset.
 
@@ -44,7 +44,7 @@ Here are the tools and technologies I work with daily. Badges help recruiters qu
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 These dynamic cards show your activity and coding focus.
 
@@ -53,7 +53,7 @@ These dynamic cards show your activity and coding focus.
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 Pin your **4-6 strongest projects** here. Each one must have a detailed README of its own!
 
@@ -66,10 +66,10 @@ Pin your **4-6 strongest projects** here. Each one must have a detailed README o
 
 ---
 
-### 📫 Let's Connect
+###  Connect
 
-- 💼 www.linkedin.com/in/hamza-ahmed-sharif
-- 📧 ha684985@gmail.com
+-  www.linkedin.com/in/hamza-ahmed-sharif
+-  ha684985@gmail.com
 
 <!--
 Optional visitor counter:
