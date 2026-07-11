@@ -2,7 +2,7 @@
 Optional: Add your custom banner image here.
 Replace the URL with your own 2600x520 banner image.
 -->
-<img width="1774"<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/5e699336-d7ee-4aa9-8912-fec0a6ea15b1" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/5e699336-d7ee-4aa9-8912-fec0a6ea15b1" />
 " />
 
 
