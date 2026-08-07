@@ -56,7 +56,7 @@ These dynamic cards show your activity and coding focus.
 
 ###  Featured Projects
 
-Pin your **4-6 strongest projects** here. Each one must have a detailed README of its own!
+
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
