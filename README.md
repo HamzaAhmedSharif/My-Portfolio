@@ -71,6 +71,9 @@ These dynamic cards show your activity and coding focus.
 
 -  www.linkedin.com/in/hamza-ahmed-sharif
 -  ha684985@gmail.com
+-  https://huggingface.co/spaces/HamzaAhmedSharif/paperqa
+
+Upload a PDF and ask questions – no API key required!
 
 <!--
 Optional visitor counter:
